@@ -1,5 +1,6 @@
 
 ## **🚀 SVF-MiningOps360 - Finace and Ops APP**
+<img width="1226" height="837" alt="SVF-LOGO1" src="https://github.com/user-attachments/assets/9c2d24c9-495b-4e83-9507-47b0faa8b61d" />
 
 
                                  SRI VENKATESWARA FIRM MINING OPERATIONS PLATFORM 
