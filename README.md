@@ -1,13 +1,13 @@
 
 ## **🚀 SVF-MiningOps360 - Finace and Ops APP**
 
-═══════════════════════
-              SRI VENKATESWARA FIRM MINING OPERATIONS PLATFORM ═══════════════════════════
+
+                                           SRI VENKATESWARA FIRM MINING OPERATIONS PLATFORM 
                       
                                      👥 220+ USERS  ⚡ 800-1K SUBMISSIONS/DAY  📊 1,000s+ DATA ROWS
                                 ⏱️  4 HOURS → 15 MINS DAILY REPORTING (94% EFFICIENCY GAIN 🚀)
                                      ✅ 98% ERROR ELIMINATION  🎯 ~99% CRASH-FREE  ⚡ <2s API LATENCY
-════════════════════════════════════════════════════════════════════════════════════════
+
 ```
 Data Managing Hell (4hr/day) → Mobile Workflows (15min/day)
 94% efficiency • 98% error reduction • 700-1k submissions/day
